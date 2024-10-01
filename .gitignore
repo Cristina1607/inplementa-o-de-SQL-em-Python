@@ -1,0 +1,9 @@
+# Ignorar o banco de dados
+data/biblioteca.db
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar ambientes virtuais
+venv/
