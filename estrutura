@@ -1,0 +1,8 @@
+biblioteca/
+├── data/
+│   └── biblioteca.db
+├── src/
+│   └── main.py
+├── README.md
+├── .gitignore
+└── LICENSE
